@@ -10,7 +10,8 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     font-family: sans-serif;
-    background-color: #D9E6F6;
+    //background-color: #D9E6F6;
+    background-image: url("https://besthqwallpapers.com/Temp/15-7-2021/gray-texture-gray-stone-background-black-texture-gray-background-stylish-gray-texture-besthqwallpapers.com-1600x900.jpg");
   }
   #__next {
     display: flex;
