@@ -27,11 +27,3 @@ export default async function recebedorDeRequests(request, response) {
         message: 'Ainda não temos nada no GET, mas no POST tem!'
     })
 } 
-
-// export default async function recebedorDeRequests(request, response) {
-//   const TOKEN = '6800f76840210322da2ef9e5a3d146';
-//   console.log(TOKEN);
-//   response.json({
-//     dados: 'Algum dado qualquer'
-//   })
-// }
